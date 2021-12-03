@@ -1,0 +1,17 @@
+body{
+    background-color: #53377a;
+}
+input {
+    font-size: 1.0em;
+    padding: 10px;
+    border: 5px solid #FFA420;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    font-size: 45px;
+    font-family:monospace ;
+}
+button{
+    font-size: 25px;
+}
